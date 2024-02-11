@@ -1,0 +1,32 @@
+{
+  "name": "au_bank",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev -p 4003",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "echarts-for-react": "^3.0.2",
+    "next": "^14.1.0",
+    "nextjs": "^0.0.3",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.10.0",
+    "react-bootstrap-icons": "^1.10.3",
+    "react-calendar": "^4.8.0",
+    "react-datepicker": "^6.1.0",
+    "react-demo": "^2.0.0",
+    "react-feather": "^2.0.10"
+  },
+  "devDependencies": {
+    "@types/node": "20.11.17",
+    "typescript": "5.3.3"
+  }
+}
